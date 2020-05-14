@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.cms-guide.com	TRUE	/	FALSE	1999999999	__cfduid	d84f1de49849864021a21ee464b253cf81565002584
+

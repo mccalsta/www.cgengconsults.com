@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 05 Aug 2019 13:56:22 at http://try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/ -O1 "C:\My Web Sites\cgaa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:59:07	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/)
+14:00:19	Error: 	"Not Found" (404) at link static-try.trial.cms-guide.com/moto3/engine/190/src/mt-includes/css/mejs-controls.svg (from static-try.trial.cms-guide.com/moto3/engine/190/src/mt-includes/css/assets.min.css?_build=1561969664)
+14:01:33	Warning: 	Retry after error -4 (Incorrect length (2294586 Bytes, 7507049 expected)) at link try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/uploads/2016/02/mt-0347-home-gif.gif (from try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/assets/styles.css?_build=1564483997)
+14:01:33	Error: 	"Not Found" (404) at link try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/uploads/2016/02/mt-0347-home-welcome.jpg (from try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/assets/styles.css?_build=1564483997)
+14:01:33	Error: 	"Not Found" (404) at link try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/uploads/2015/11/mt-0242-about-parallax.jpg (from try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/assets/styles.css?_build=1564483997)
+14:01:33	Error: 	"Not Found" (404) at link try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/uploads/2015/03/mt-0016-exhibitions-bg1.jpg (from try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/assets/styles.css?_build=1564483997)
+14:01:33	Error: 	"Not Found" (404) at link try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/uploads/2015/03/mt-0016-bio-bg1.jpg (from try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/assets/styles.css?_build=1564483997)
+14:01:33	Error: 	"Not Found" (404) at link try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/uploads/2015/03/mt-0016-home-bg2.jpg (from try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/assets/styles.css?_build=1564483997)
+14:01:33	Error: 	"Not Found" (404) at link try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/uploads/2015/03/mt-0016-home-bg1.jpg (from try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/assets/styles.css?_build=1564483997)
+14:01:33	Error: 	"Not Found" (404) at link try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/uploads/2015/03/mt-0016-home-slider1.jpg (from try.trial.cms-guide.com/site/02/00p/q1/0200pq12tuwwgjlg/mt-content/assets/styles.css?_build=1564483997)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 42 seconds : 87 links scanned, 76 files written (14340012 bytes overall) [12854162 bytes received at 24624 bytes/sec], 1887890 bytes transferred using HTTP compression in 31 files, ratio 19%, 2.7 requests per connection
+(9 errors, 1 warnings, 0 messages)
